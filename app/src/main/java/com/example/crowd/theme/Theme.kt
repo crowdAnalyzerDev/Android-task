@@ -1,4 +1,4 @@
-package com.example.crowd.ui.theme
+package com.example.crowd.theme
 
 import android.app.Activity
 import android.os.Build

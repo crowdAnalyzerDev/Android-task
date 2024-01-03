@@ -1,4 +1,4 @@
-package com.example.crowd.ui.theme
+package com.example.crowd.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
